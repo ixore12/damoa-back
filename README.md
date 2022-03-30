@@ -3,16 +3,17 @@
 Final Project damoa
 
 <h1> 다모여 </h1>
-
-
+<li> main <br>
+![메인](https://user-images.githubusercontent.com/93702391/160751235-a4750c05-2d2b-4bab-a7d7-c7aea31b1ffa.png)
+</li>
 <h2> 🎯 Purpose 🎯 </h2>
 커뮤니티 웹사이트
 
 <h2>🍍 link 🍍</h2>
 <li>
-Demo : 
+Demo : http://damoyu.shop/
 <br>
-Youtube : 
+Youtube : https://youtu.be/McBExhNwJPw
 <br>
 </li>
   
@@ -28,3 +29,5 @@ Youtube :
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git Hub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/intelliJ IDEA-000000?style=flat-square&logo=intelliJ IDEA&logoColor=white"/>
+
+
