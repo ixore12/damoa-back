@@ -5,7 +5,7 @@ Final Project damoa
 <h1> 다모여 </h1>
 <li> main <br>
 ![메인](https://user-images.githubusercontent.com/93702391/160751235-a4750c05-2d2b-4bab-a7d7-c7aea31b1ffa.png)
-</li>
+
 <h2> 🎯 Purpose 🎯 </h2>
 커뮤니티 웹사이트
 
