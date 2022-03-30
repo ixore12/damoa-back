@@ -31,3 +31,8 @@ Youtube : https://youtu.be/McBExhNwJPw
 <img src="https://img.shields.io/badge/intelliJ IDEA-000000?style=flat-square&logo=intelliJ IDEA&logoColor=white"/>
 
 
+<li> 모임방 <br>
+<img width="900" alt="PAGOBOOKS" src="https://user-images.githubusercontent.com/93702391/160752213-978bfe0c-9836-4f94-91c0-620f0992162f.png">
+<br>
+<li> 게시판 <br>
+<img width="900" alt="PAGOBOOKS" src="https://user-images.githubusercontent.com/93702391/160752426-83461099-1c4b-4865-8d53-bd24afe01b78.png">  
