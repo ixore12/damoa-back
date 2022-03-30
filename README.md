@@ -1,10 +1,10 @@
 #  커뮤니티 사이트 프로젝트
 <hr>
-Final Project damoa
+Final Project damoyu
 
 <h1> 다모여 </h1>
 <li> main <br>
-<img width="900" alt="PAGOBOOKS" src="https://user-images.githubusercontent.com/93702391/160751600-736c0b62-35cd-4198-a7d4-5b10b41b6753.png">
+<img width="900" alt="DAMOYU" src="https://user-images.githubusercontent.com/93702391/160751600-736c0b62-35cd-4198-a7d4-5b10b41b6753.png">
 <br>
 <h2> 🎯 Purpose 🎯 </h2>
 취미별, 테마별, 정기 모임, 스팟 모임 등
@@ -33,8 +33,8 @@ Youtube : https://youtu.be/McBExhNwJPw
 
 <br>
 <li> 모임방 <br>
-<img width="900" alt="PAGOBOOKS" src="https://user-images.githubusercontent.com/93702391/160752213-978bfe0c-9836-4f94-91c0-620f0992162f.png">
+<img width="900" alt="DAMOYU" src="https://user-images.githubusercontent.com/93702391/160752213-978bfe0c-9836-4f94-91c0-620f0992162f.png">
 
 <br>
 <li> 게시판 <br>
-<img width="900" alt="PAGOBOOKS" src="https://user-images.githubusercontent.com/93702391/160752426-83461099-1c4b-4865-8d53-bd24afe01b78.png">  
+<img width="900" alt="DAMOYU" src="https://user-images.githubusercontent.com/93702391/160752426-83461099-1c4b-4865-8d53-bd24afe01b78.png">  
