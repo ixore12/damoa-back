@@ -21,7 +21,7 @@ Youtube :
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=&flat-square&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-4FC08D?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-03C75A?style=flat-square&logo=AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F32?style=flat-square&logo=AWS&logoColor=white"/>
 
 
 <h2>📖 Tools 📖</h2>
