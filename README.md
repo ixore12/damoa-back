@@ -4,7 +4,7 @@ Final Project damoa
 
 <h1> 다모여 </h1>
 <li> main <br>
-![메인](https://user-images.githubusercontent.com/93702391/160751235-a4750c05-2d2b-4bab-a7d7-c7aea31b1ffa.png)
+<img width="900" alt="PAGOBOOKS" src="https://user-images.githubusercontent.com/93702391/160751600-736c0b62-35cd-4198-a7d4-5b10b41b6753.png">
 
 <h2> 🎯 Purpose 🎯 </h2>
 커뮤니티 웹사이트
